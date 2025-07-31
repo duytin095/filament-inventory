@@ -19,7 +19,6 @@ A demo inventory management system built with **Laravel** and **FilamentPHP** �
 
 ## 🖼️ Screenshots
 
-<img src="screenshots/dashboard.png" width="700" >
 <img width="3280" height="1688" alt="image" src="https://github.com/user-attachments/assets/ceebf5c0-7458-406b-859d-4d12031735c5" alt="Dashboard Overview"/>
 <img width="3250" height="1688" alt="image" src="https://github.com/user-attachments/assets/e0da8ce4-6b7e-440b-b466-078957b00be4" alt="Product Overview"/>
 
